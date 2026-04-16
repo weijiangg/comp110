@@ -5,7 +5,7 @@ layout: default
 
 # Pre-Lecture Videos in COMP110
 
-<img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="200"/>
+<img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="150"/>
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ The dataset combines survey responses Alyssa and Izzi responses on these variabl
 ## Key Visualizations
 
 ### 1. Distribution of Pre-Lecture Video Preference
-<img src="https://github.com/weijiangg/comp110/blob/main/static/imgs/plv_distribution.png" width="600"/>
+<img src="{{ site.baseurl }}/static/imgs/plv_distribution.png" width="600"/>
 
 This chart shows that most students lean toward agreeing with the idea of pre lecture videos.
 
