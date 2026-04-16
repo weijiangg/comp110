@@ -5,7 +5,7 @@ layout: default
 
 # Pre-Lecture Videos in COMP110
 
-<img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="400"/>
+<img src="{{ site.baseurl }}/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="200"/>
 
 ## Project Overview
 
